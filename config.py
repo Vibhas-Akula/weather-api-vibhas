@@ -1,0 +1,6 @@
+MYSQL_HOST = "localhost"
+MYSQL_USER = "root"
+MYSQL_PASSWORD = "Qzpm1038vbcn"
+MYSQL_DATABASE = "weather_db"
+
+OPENWEATHERMAP_API_KEY = "f6b4e0a6739da423adad827304f1a5ae"
