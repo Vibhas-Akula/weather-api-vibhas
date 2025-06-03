@@ -8,3 +8,17 @@ This Backend Application focuses on how to implement the necessary CRUD operatio
   <li><b>DELETE: </b> This request helps the users to delete the necessary entries or records in the database.</li>
 </ol>
 <hr>
+
+# Pre-Requisites
+<ul type = 'disc'>
+  <li>Flask framework with Python</li>
+  <li>MySQL Server</li>
+  <li>Postman</li>
+</ul>
+
+
+# Steps to run the application:
+<ol type = '1'>
+  <li></li>
+</ol>
+Postman Link: <a href = "https://documenter.getpostman.com/view/41469441/2sB2qi7xfa"></a>
