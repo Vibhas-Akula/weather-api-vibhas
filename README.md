@@ -7,3 +7,4 @@ This Backend Application focuses on how to implement the necessary CRUD operatio
   <li><b>UPDATE: </b> This request helps the users to update the necessary database entries.</li>
   <li><b>DELETE: </b> This request helps the users to delete the necessary entries or records in the database.</li>
 </ol>
+<hr>
