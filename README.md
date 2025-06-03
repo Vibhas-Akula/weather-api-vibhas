@@ -15,10 +15,17 @@ This Backend Application focuses on how to implement the necessary CRUD operatio
   <li>MySQL Server</li>
   <li>Postman</li>
 </ul>
-
+<hr>
 
 # Steps to run the application:
 <ol type = '1'>
-  <li></li>
+  <li>Open the Command Prompt Window and change to the current working directory.</li>
+  <li>Type down the command: pip install -r requirements.txt</li>
+  <li>The command will install all the necessary requirements.</li>
+  <li>Run the app.py Python file: python app.py</li>
+  <li>Open another command prompt window.</li>
+  <li>Run the MySQL Server command: mysql -u root -p</li>
+  <li>Database and Table have been created before executing the HTTP requests.</li>
+  <li>Refer to the Postman Documentation on how to implement the CRUD operations over the database.</li>
 </ol>
 Postman Link: <a href = "https://documenter.getpostman.com/view/41469441/2sB2qi7xfa">Click Here to view the Postman Documentation.</a>
